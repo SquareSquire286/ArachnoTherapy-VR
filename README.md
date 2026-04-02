@@ -7,7 +7,7 @@
 ![Team_Pictures](Documentation/Misc/Team_Pictures.png)
 
 # Our Motivation
-Current exposure therapy techniques, especially for arachnophobia pose danger with unpredictability of spider behaviour. Virtual reality exposure therapy is one step safer, however interactions the user has are often only passive. These things, coupled with the increasing demand and shortage of therapists available make exposure therapy less accessible than necessary. ArachnoTherapy VR is an application created to improve accessibility and efficacy of current exposure therapy techniques by allowing for level-based progression and guidance from a virtual therapist.
+Current exposure therapy techniques, especially for arachnophobia, pose danger with unpredictability of spider behaviour. Virtual reality exposure therapy is one step safer, but interactions the user has are often only passive. Coupled with the treatment gap, this makes exposure therapy less accessible than necessary. ArachnoTherapy VR is an application created to improve accessibility and availability of current exposure therapy techniques by allowing for level-based progression and guidance from a virtual therapist.
 
 # Documentation
 All document, vlog, and project related links can be found in the [Documentation](Documentation/) section. 
@@ -18,9 +18,9 @@ _Note: Version control through Unity was done using PlasticSCM therefore all reg
 
 
 # Instructions
-1. Download the [ArachnotherapyVR apk ](https://drive.google.com/file/d/1GFgkF8Gt_JzKvsgLMEm-2ZSz-r8aR9B5/view?usp=sharing)file
-2. Load the apk to your headset using [SideQuest](https://sidequestvr.com)
-3. Launch the app from the 'Unknown Sources' library
+1. Download ArachnoTherapy VR as an APK file [here](https://squaresquire286.itch.io/arachnotherapy-vr).
+2. Load the APK to your Meta Quest HMD using [SideQuest](https://sidequestvr.com).
+3. Launch the app from the 'Unknown Sources' library.
 
 [Here](https://learn.adafruit.com/sideloading-on-oculus-quest/install-and-use-sidequest) is an additional step-by-step instruction for sideloading. 
 
@@ -28,9 +28,9 @@ _Note: Version control through Unity was done using PlasticSCM therefore all reg
 # Special Thanks
 
 - Dr. Craig Gelowitz
-- Dr. Tim Maciag
-- Dr. Nick Carleton
-- University of Regina Armadillo Lab
+- [Dr. Timothy Maciag](https://www.linkedin.com/in/maciagt/)
+- [Dr. R. Nicholas Carleton](https://www.linkedin.com/in/nick-carleton-a6169528/)
+- University of Regina aRMADILo Lab
 
 # Disclaimer
 >ArachnoTherapy VR Copyright (C) 2022 Jacob Chapman, Roxanne Harrison, Jacob Sauer.  
